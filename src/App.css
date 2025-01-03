@@ -1,0 +1,13 @@
+body {
+  background-color: #fffef2;
+}
+
+nav {
+  position: sticky;
+  top: 0px;
+  z-index: 100;
+}
+
+footer {
+  background-color: #252525;
+}
